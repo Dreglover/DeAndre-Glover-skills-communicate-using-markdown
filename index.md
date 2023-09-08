@@ -4,3 +4,6 @@
 ``` javascript
 Dre says = "That's not chicken!";
 ```
+- [X] Find chicken
+- [X] cook chicken
+- [ ] eat chicken
